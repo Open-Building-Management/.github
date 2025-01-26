@@ -22,3 +22,5 @@ I've also crafted a minimal [emontx sniffer addon](https://github.com/Open-Build
 It can act as a standalone tool, storing datas in the home assistant database only. see https://github.com/Open-Building-Management/emontx_sniffer/issues/1
 
 I am also discovering grafana...
+
+I've tried to use reinforcement learning to create an energy building model called [EnergyGym](https://github.com/Open-Building-Management/EnergyGym)
