@@ -17,7 +17,8 @@ See :
 - [emoncms-docker](https://emoncms-docker.github.io) for an introduction
 - [advanced tips and use cases](https://github.com/Open-Building-Management/emoncms/discussions)
 
-I've also crafted a minimal [emontx sniffer addon](https://github.com/Open-Building-Management/emontx_sniffer) for home assistant which I originally thought to be used in combination with the emoncms addon
-I can act as a standalone tool, storing datas in the home assistant database only. see https://github.com/Open-Building-Management/emontx_sniffer/issues/1
+I've also crafted a minimal [emontx sniffer addon](https://github.com/Open-Building-Management/emontx_sniffer) for home assistant which I originally thought to be used in combination with the emoncms addon.
+
+It can act as a standalone tool, storing datas in the home assistant database only. see https://github.com/Open-Building-Management/emontx_sniffer/issues/1
 
 I am also discovering grafana...
