@@ -1,4 +1,4 @@
-:hotel: :hospital: :bank: :house_with_garden: :convenience_store: :post_office: :factory:
+:hotel: :hospital: :bank: :house_with_garden: :convenience_store: :post_office: :factory: :hotel: :hotel: :hotel: :hospital: :hotel: :bank: :house_with_garden: :convenience_store: :convenience_store: :post_office: :factory: :house_with_garden: :house_with_garden: :hotel: :house_with_garden: :house_with_garden: :house_with_garden: :house_with_garden: :house_with_garden: :factory: :factory: :factory: :factory: :factory: 
 
 <!--
 see : https://gist.github.com/rxaviers/7360908
