@@ -9,8 +9,12 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-🙋‍♀️ open building management is about data management solution for buildings and houses
+🙋‍♀️ open building management is about data management solutions for buildings and houses
 
 a solution is emoncms, so you can use the emoncms docker which can also acts as a home assistant addon
 
-See [emoncms-docker](https://emoncms-docker.github.io)
+See [emoncms-docker](https://emoncms-docker.github.io) for an introduction
+
+For more [advanced tips and use cases](https://github.com/Open-Building-Management/emoncms/discussions)
+
+
