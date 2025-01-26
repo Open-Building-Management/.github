@@ -11,7 +11,7 @@
 
 🙋‍♀️ open building management is about data management solutions for buildings and houses
 
-a solution is emoncms, so you can use the emoncms docker which can also acts as a home assistant addon
+a solution is emoncms, so you can use the **emoncms standalone docker** which can also acts as a home assistant addon
 
 See [emoncms-docker](https://emoncms-docker.github.io) for an introduction
 
