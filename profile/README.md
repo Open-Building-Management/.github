@@ -17,6 +17,6 @@ See :
 - [emoncms-docker](https://emoncms-docker.github.io) for an introduction
 - [advanced tips and use cases](https://github.com/Open-Building-Management/emoncms/discussions)
 
-The minimal [emontx sniffer addon](https://github.com/Open-Building-Management/emontx_sniffer) for home assistant was originally thought to be used in combination with the emoncms addon. Anyway, it can act as a standalone tool, storing datas in the home assistant database only. see https://github.com/Open-Building-Management/emontx_sniffer/issues/1
+The minimal [emontx sniffer addon](https://github.com/Open-Building-Management/emontx_sniffer) for home assistant was originally thought to be used in combination with the emoncms addon. Anyway, it can store directly datas in the home assistant database. see https://github.com/Open-Building-Management/emontx_sniffer/issues/1
 
 [EnergyGym](https://github.com/Open-Building-Management/EnergyGym) is an experience using reinforcement learning to create an energy building model
