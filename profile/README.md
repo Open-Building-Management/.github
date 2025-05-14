@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+
 :hotel: :hospital: :bank: :house_with_garden: :convenience_store: :post_office: :factory: :hotel: :hotel: :hotel: :hospital: :hotel: :bank: :house_with_garden: :convenience_store: :convenience_store: :post_office: :factory: :house_with_garden: :house_with_garden: :hotel: :house_with_garden: :house_with_garden: :house_with_garden: :house_with_garden: :house_with_garden: :factory: :factory: :factory: :factory: :factory: 
 
 <!--
