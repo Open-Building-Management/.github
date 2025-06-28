@@ -13,7 +13,7 @@ see : https://gist.github.com/rxaviers/7360908
 
 open building management is about **long term** data management solutions for buildings and houses
 
-a solution is emoncms, a timeseries which is like influxdb and which exposes an HTTP API. You can use the **emoncms standalone docker** which can also acts as a home assistant addon. It is surely the easiest way to start with emoncms. In a few seconds, you will have all the tools available without the need to go into the configuration details.
+a SIMPLE solution is emoncms, a timeseries which is like influxdb and which exposes an HTTP API. You can use the **emoncms standalone docker** which can also acts as a home assistant addon. It is surely the easiest way to start with emoncms. In a few seconds, you will have all the tools available without the need to go into the configuration details.
 
 See :
 - [emoncms-docker](https://emoncms-docker.github.io) for an introduction
